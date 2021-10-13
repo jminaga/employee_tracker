@@ -26,6 +26,6 @@ https://watch.screencastify.com/v/X0K7xsqzQ6hLLLHuhNSh
 
 
 # Screen Shots
-![](img/sc1.png)
-![](img/sc2.png)
-![](img/sc3.png)
+![](img/1.png)
+![](img/2.png)
+![](img/3.png)
