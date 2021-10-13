@@ -12,8 +12,8 @@
 <br> The roles shows the role title, salary, and department id,
 <br> The employees shows the first name, last name, title, and manager id.
 
-#Links
-
+# Links
+<br> Video demo can be found here:
 https://watch.screencastify.com/v/X0K7xsqzQ6hLLLHuhNSh
 
 # Technologies
